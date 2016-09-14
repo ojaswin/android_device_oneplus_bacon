@@ -67,7 +67,6 @@ TARGET_SCREEN_WIDTH := 1080
 # Camera
 PRODUCT_PACKAGES += \
     camera.bacon \
-    Snap
 
 # Charger
 PRODUCT_PACKAGES += \
@@ -84,10 +83,6 @@ PRODUCT_PACKAGES += \
 # Display
 PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
-
-# Gello
-PRODUCT_PACKAGES += \
-    Gello
 
 # Graphics
 PRODUCT_PACKAGES += \
